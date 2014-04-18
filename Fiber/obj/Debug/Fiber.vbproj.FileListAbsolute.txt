@@ -1,0 +1,5 @@
+E:\Documents\ClassWork\PT1420\Fiber\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\ClassWork\PT1420\Fiber\bin\Debug\Fiber.exe
+E:\Documents\ClassWork\PT1420\Fiber\bin\Debug\Fiber.pdb
+E:\Documents\ClassWork\PT1420\Fiber\obj\Debug\Fiber.exe
+E:\Documents\ClassWork\PT1420\Fiber\obj\Debug\Fiber.pdb
